@@ -1,0 +1,2 @@
+- I made my own version of Pong and Flappy Bird games in CS50 courses from scratch.
+- Note: an effective way to learn is **watching** the video first, then coding your **own version** of the game **from scratch**. You can create more features such as new modes, or different movements, organize folders and files better and clean your code. It's may be little time-consuming but you will learn faster from your error :).
